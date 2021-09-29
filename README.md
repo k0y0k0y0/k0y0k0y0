@@ -5,7 +5,7 @@
     <img src="https://komarev.com/ghpvc/?username=k0y0k0y0" alt="k0y0k0y0" />
   </a>
   <a href="http://twitter.com/korekara333">
-    <img height="20" src="https://img.shields.io/twitter/follow/korekara333label=Twitter&logo=twitter&style=flat" />
+    <img height="20" src="https://img.shields.io/twitter/follow/korekara333?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/k0y0k0y0">
     <img height="20" src="https://img.shields.io/github/followers/k0y0k0y0?label=follow&logo=github&style=flat" />
