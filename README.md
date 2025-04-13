@@ -24,8 +24,6 @@
   </a>
 </p>
 
----
-
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -82,8 +80,6 @@
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 
----
-
 ## 📊 GitHub Stats
 
 <p align="left">
@@ -99,8 +95,6 @@
     <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=k0y0k0y0&theme=dracula" />
   </a>
 </p>
-
----
 
 ## ✨ Let's connect!
 
